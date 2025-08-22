@@ -100,7 +100,7 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 ```javascript
 if (needHelp === true) {
-  var emailId = "vinitshahdeo@gmail.com";
+  var emailId = "vongsambo25@gmail.com";
   // email is the best way to reach out to me.
   sendEmail(emailId);
 }
